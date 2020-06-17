@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <!-- 0-Name;HasCastAnimation;ShowAction;IsLiving. 1-Actions. -->
+  <Asset>0:Elf Mage;false;5;true;.1:5;.</Asset>
+</XnaContent>

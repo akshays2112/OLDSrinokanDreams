@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset>
+    <!-- <Model>Name;ModelPosition;ModelRotation;ModelVelocity -->
+    <Model>ElfMage;0;0;0;0.0;0;0;0</Model>
+  </Asset>
+</XnaContent>

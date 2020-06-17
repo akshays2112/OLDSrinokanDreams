@@ -1,0 +1,14 @@
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreamsServer\bin\Debug\Areas\Start.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreamsServer\bin\Debug\NPC\ElfMage.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreamsServer\bin\Debug\SrinokanDreamsServer.exe.config
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreamsServer\bin\Debug\SrinokanDreamsServer.exe
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreamsServer\bin\Debug\SrinokanDreamsServer.pdb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreamsServer\obj\Debug\SrinokanDreamsServer.exe
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreamsServer\obj\Debug\SrinokanDreamsServer.pdb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreamsServer\bin\Debug\Areas\Start.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreamsServer\bin\Debug\NPC\ElfMage.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreamsServer\bin\Debug\SrinokanDreamsServer.exe.config
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreamsServer\bin\Debug\SrinokanDreamsServer.exe
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreamsServer\bin\Debug\SrinokanDreamsServer.pdb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreamsServer\obj\Debug\SrinokanDreamsServer.exe
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreamsServer\obj\Debug\SrinokanDreamsServer.pdb

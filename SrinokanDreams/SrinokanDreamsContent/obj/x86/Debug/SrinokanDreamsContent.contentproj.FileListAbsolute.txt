@@ -1,0 +1,3 @@
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreamsContent\obj\x86\Debug\SrinokanDreamsContent.contentprojResolveAssemblyReference.cache
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreamsContent\obj\x86\Debug\SrinokanDreamsContent.contentprojResolveAssemblyReference.cache
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreamsContent\obj\x86\Debug\SrinokanDreamsContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset>
+    <Name>Elf Mage</Name>
+    <HasCastAnimation>false</HasCastAnimation>
+    <ShowAction>Attack</ShowAction>
+    <IsLiving>true</IsLiving>
+    <Actions>
+      <Action>Attack</Action>
+    </Actions>
+  </Asset>
+</XnaContent>

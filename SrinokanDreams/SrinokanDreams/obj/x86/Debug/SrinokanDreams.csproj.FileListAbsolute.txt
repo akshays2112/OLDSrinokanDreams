@@ -1,0 +1,119 @@
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\3HeadedDog_Attack.xnb
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\Untitled_0.xnb
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\SrinokanDreams.exe.config
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\SrinokanDreams.exe
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\SrinokanDreams.pdb
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\AnimationAux.dll
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.dll
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Net.dll
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Storage.dll
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\AnimationAux.pdb
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.xml
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Net.xml
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Storage.xml
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\SrinokanDreams.csprojResolveAssemblyReference.cache
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\SrinokanDreams.exe
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\SrinokanDreams.pdb
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Areas\Start.xml
+H:\VS2015\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\NPC\3HeadedDog.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Walk.xnb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\NPCFont.xnb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\Untitled_0.xnb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\SrinokanDreams.exe.config
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\SrinokanDreams.exe
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\SrinokanDreams.pdb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\AnimationAux.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Net.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Storage.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\AnimationAux.pdb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Net.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Storage.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\SrinokanDreams.csprojResolveAssemblyReference.cache
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\SrinokanDreams.exe
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\SrinokanDreams.pdb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Walk.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\NPCFont.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\SrinokanDreams.exe.config
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\SrinokanDreams.exe
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\SrinokanDreams.pdb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\AnimationAux.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Net.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Storage.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\AnimationAux.pdb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Net.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Storage.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\SrinokanDreams.csprojResolveAssemblyReference.cache
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\SrinokanDreams.exe
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\SrinokanDreams.pdb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Cast.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Death.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Hold.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Run.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Stun.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_0.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_0.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_0.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_0.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_0.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_0.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_1.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_1.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_1.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_1.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_1.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_1.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_2.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_2.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_2.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_2.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_2.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_2.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_3.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_3.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_3.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_3.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_3.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_3.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_4.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_4.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_4.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_4.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_4.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_4.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_5.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_5.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_5.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_5.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_5.xnb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_5.xnb

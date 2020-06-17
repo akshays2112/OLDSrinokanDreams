@@ -1,0 +1,84 @@
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\AnimationAux.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Video.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\AnimationAux.pdb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Video.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationAux.dll
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.dll
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.dll
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Video.dll
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationAux.pdb
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.xml
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Video.xml
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+H:\VS2015\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+H:\VS2015\SrinokanDreams\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+H:\VS2015\SrinokanDreams\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+H:\VS2015\SrinokanDreams\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationAux.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Video.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationAux.pdb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Video.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationPipeline.pdb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationAux.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Video.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationAux.pdb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Content.Pipeline.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Video.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\obj\x86\Debug\AnimationPipeline.csprojResolveAssemblyReference.cache
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\obj\x86\Debug\AnimationPipeline.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\obj\x86\Debug\AnimationPipeline.pdb

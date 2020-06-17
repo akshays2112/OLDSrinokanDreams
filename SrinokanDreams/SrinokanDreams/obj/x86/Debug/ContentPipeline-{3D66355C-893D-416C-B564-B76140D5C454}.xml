@@ -1,0 +1,792 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>NPCFont.spritefont</Source>
+      <Name>NPCFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\NPCFont.xnb</Output>
+      <Time>2016-07-22T15:06:05.8340476+05:30</Time>
+    </Item>
+    <Item>
+      <Source>ElfMage_Cast.fbx</Source>
+      <Name>ElfMage_Cast</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Cast.xnb</Output>
+      <Time>2016-08-09T18:14:33.1577627+05:30</Time>
+      <Dependency>
+        <Key>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Cast_0.xml</Key>
+        <Value>2016-08-09T20:23:18.0266089+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_0.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_0.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_0.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_0.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_0.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ElfMage_Death.fbx</Source>
+      <Name>ElfMage_Death</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Death.xnb</Output>
+      <Time>2016-08-09T18:14:33.6552686+05:30</Time>
+      <Dependency>
+        <Key>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Death_0.xml</Key>
+        <Value>2016-08-09T20:23:20.2086936+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_1.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_1.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_1.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_1.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_1.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_1.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ElfMage_Hold.fbx</Source>
+      <Name>ElfMage_Hold</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Hold.xnb</Output>
+      <Time>2016-08-09T18:14:34.1119247+05:30</Time>
+      <Dependency>
+        <Key>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Hold_0.xml</Key>
+        <Value>2016-08-09T20:23:22.3239977+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_2.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_2.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_2.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_2.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_2.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_2.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ElfMage_Run.fbx</Source>
+      <Name>ElfMage_Run</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Run.xnb</Output>
+      <Time>2016-08-09T18:14:34.5651057+05:30</Time>
+      <Dependency>
+        <Key>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Run_0.xml</Key>
+        <Value>2016-08-09T20:23:24.4416101+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_3.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_3.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_3.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_3.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_3.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_3.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ElfMage_Stun.fbx</Source>
+      <Name>ElfMage_Stun</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Stun.xnb</Output>
+      <Time>2016-08-09T18:14:35.0204475+05:30</Time>
+      <Dependency>
+        <Key>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Stun_0.xml</Key>
+        <Value>2016-08-09T20:23:26.4964983+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_4.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_4.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_4.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_4.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_4.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_4.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ElfMage_Walk.fbx</Source>
+      <Name>ElfMage_Walk</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ElfMage_Walk.xnb</Output>
+      <Time>2016-08-09T20:18:48.402934+05:30</Time>
+      <Dependency>
+        <Key>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Walk_0.xml</Key>
+        <Value>2016-08-09T20:23:28.5548399+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_5.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_5.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_5.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_5.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_5.xnb</Request>
+      <Request>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_5.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ElfMage_Cast.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Cast_0.xml</Output>
+      <Time>2016-08-09T18:14:33.1577627+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\458D296D\ElfMage_Cast.fbm\skirt.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_0.xnb</Output>
+      <Time>2016-08-09T20:23:17.2733772+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\458D296D\ElfMage_Cast.fbm\FuseModel_Body_diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_0.xnb</Output>
+      <Time>2016-08-09T20:23:17.2753997+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\458D296D\ElfMage_Cast.fbm\cuerpo.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_0.xnb</Output>
+      <Time>2016-08-09T20:23:17.2794136+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\458D296D\ElfMage_Cast.fbm\ropa.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_0.xnb</Output>
+      <Time>2016-08-09T20:23:17.2894186+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\458D296D\ElfMage_Cast.fbm\ring.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_0.xnb</Output>
+      <Time>2016-08-09T20:23:17.2904214+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\458D296D\ElfMage_Cast.fbm\hair.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_0.xnb</Output>
+      <Time>2016-08-09T20:23:17.2914507+05:30</Time>
+    </Item>
+    <Item>
+      <Source>ElfMage_Death.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Death_0.xml</Output>
+      <Time>2016-08-09T18:14:33.6552686+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\6F3F29C8\ElfMage_Death.fbm\skirt.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_1.xnb</Output>
+      <Time>2016-08-09T20:23:19.5950328+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\6F3F29C8\ElfMage_Death.fbm\FuseModel_Body_diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_1.xnb</Output>
+      <Time>2016-08-09T20:23:19.5970647+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\6F3F29C8\ElfMage_Death.fbm\cuerpo.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_1.xnb</Output>
+      <Time>2016-08-09T20:23:19.6010616+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\6F3F29C8\ElfMage_Death.fbm\ropa.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_1.xnb</Output>
+      <Time>2016-08-09T20:23:19.6110755+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\6F3F29C8\ElfMage_Death.fbm\ring.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_1.xnb</Output>
+      <Time>2016-08-09T20:23:19.612078+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\6F3F29C8\ElfMage_Death.fbm\hair.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_1.xnb</Output>
+      <Time>2016-08-09T20:23:19.6125793+05:30</Time>
+    </Item>
+    <Item>
+      <Source>ElfMage_Hold.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Hold_0.xml</Output>
+      <Time>2016-08-09T18:14:34.1119247+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\459D2969\ElfMage_Hold.fbm\skirt.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_2.xnb</Output>
+      <Time>2016-08-09T20:23:21.6802365+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\459D2969\ElfMage_Hold.fbm\FuseModel_Body_diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_2.xnb</Output>
+      <Time>2016-08-09T20:23:21.6822419+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\459D2969\ElfMage_Hold.fbm\cuerpo.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_2.xnb</Output>
+      <Time>2016-08-09T20:23:21.6852497+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\459D2969\ElfMage_Hold.fbm\ropa.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_2.xnb</Output>
+      <Time>2016-08-09T20:23:21.6947751+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\459D2969\ElfMage_Hold.fbm\ring.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_2.xnb</Output>
+      <Time>2016-08-09T20:23:21.6952766+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\459D2969\ElfMage_Hold.fbm\hair.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_2.xnb</Output>
+      <Time>2016-08-09T20:23:21.6957779+05:30</Time>
+    </Item>
+    <Item>
+      <Source>ElfMage_Run.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Run_0.xml</Output>
+      <Time>2016-08-09T18:14:34.5651057+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\1C862917\ElfMage_Run.fbm\skirt.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_3.xnb</Output>
+      <Time>2016-08-09T20:23:23.7593609+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\1C862917\ElfMage_Run.fbm\FuseModel_Body_diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_3.xnb</Output>
+      <Time>2016-08-09T20:23:23.7613404+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\1C862917\ElfMage_Run.fbm\cuerpo.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_3.xnb</Output>
+      <Time>2016-08-09T20:23:23.7643746+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\1C862917\ElfMage_Run.fbm\ropa.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_3.xnb</Output>
+      <Time>2016-08-09T20:23:23.7733984+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\1C862917\ElfMage_Run.fbm\ring.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_3.xnb</Output>
+      <Time>2016-08-09T20:23:23.7743746+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\1C862917\ElfMage_Run.fbm\hair.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_3.xnb</Output>
+      <Time>2016-08-09T20:23:23.7753774+05:30</Time>
+    </Item>
+    <Item>
+      <Source>ElfMage_Stun.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Stun_0.xml</Output>
+      <Time>2016-08-09T18:14:35.0204475+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\4680298C\ElfMage_Stun.fbm\skirt.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_4.xnb</Output>
+      <Time>2016-08-09T20:23:25.8611496+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\4680298C\ElfMage_Stun.fbm\FuseModel_Body_diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_4.xnb</Output>
+      <Time>2016-08-09T20:23:25.8631552+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\4680298C\ElfMage_Stun.fbm\cuerpo.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_4.xnb</Output>
+      <Time>2016-08-09T20:23:25.8651605+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\4680298C\ElfMage_Stun.fbm\ropa.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_4.xnb</Output>
+      <Time>2016-08-09T20:23:25.8751871+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\4680298C\ElfMage_Stun.fbm\ring.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_4.xnb</Output>
+      <Time>2016-08-09T20:23:25.8761894+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\4680298C\ElfMage_Stun.fbm\hair.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_4.xnb</Output>
+      <Time>2016-08-09T20:23:25.8761894+05:30</Time>
+    </Item>
+    <Item>
+      <Source>ElfMage_Walk.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\ElfMage_Walk_0.xml</Output>
+      <Time>2016-08-09T20:18:48.402934+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\45D62971\ElfMage_Walk.fbm\skirt.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\skirt_5.xnb</Output>
+      <Time>2016-08-09T20:23:27.9120598+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\45D62971\ElfMage_Walk.fbm\FuseModel_Body_diffuse.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\FuseModel_Body_diffuse_5.xnb</Output>
+      <Time>2016-08-09T20:23:27.9135631+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\45D62971\ElfMage_Walk.fbm\cuerpo.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\cuerpo_5.xnb</Output>
+      <Time>2016-08-09T20:23:27.9165709+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\45D62971\ElfMage_Walk.fbm\ropa.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ropa_5.xnb</Output>
+      <Time>2016-08-09T20:23:27.9260974+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\45D62971\ElfMage_Walk.fbm\ring.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\ring_5.xnb</Output>
+      <Time>2016-08-09T20:23:27.9270999+05:30</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\FBX\45D62971\ElfMage_Walk.fbm\hair.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\hair_5.xnb</Output>
+      <Time>2016-08-09T20:23:27.9276183+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3D66355C-893D-416C-B564-B76140D5C454}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreamsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\akshay\Documents\GitHub\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationPipeline\bin\x86\Debug\AnimationPipeline.dll</Key>
+        <Value>2016-08-09T20:23:16.728714+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-07-18T07:22:23.1958865+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

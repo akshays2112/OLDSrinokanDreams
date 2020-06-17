@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>3HeadedDog_Attack.fbx</Source>
+      <Name>3HeadedDog_Attack</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>AnimationProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Release\Content\3HeadedDog_Attack.xnb</Output>
+      <Time>2016-07-21T22:24:59.6796258+05:30</Time>
+      <Dependency>
+        <Key>C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Release\3HeadedDog_Attack_0.xml</Key>
+        <Value>2016-07-22T16:50:21.4232416+05:30</Value>
+      </Dependency>
+      <Request>C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Release\Content\Untitled_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>NPCFont.spritefont</Source>
+      <Name>NPCFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Release\Content\NPCFont.xnb</Output>
+      <Time>2016-07-22T15:06:05.8340476+05:30</Time>
+    </Item>
+    <Item>
+      <Source>3HeadedDog_Attack.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Release\3HeadedDog_Attack_0.xml</Output>
+      <Time>2016-07-21T22:24:59.6796258+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Untitled.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Release\Content\Untitled_0.xnb</Output>
+      <Time>2016-07-21T22:24:59.6846163+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{3D66355C-893D-416C-B564-B76140D5C454}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreamsContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\SrinokanDreams\SrinokanDreams\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationPipeline\bin\x86\Release\AnimationPipeline.dll</Key>
+        <Value>2016-07-22T16:50:20.6537475+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-07-18T07:22:23.1958865+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

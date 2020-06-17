@@ -1,0 +1,61 @@
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\AnimationAux.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\AnimationAux.pdb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\obj\x86\Debug\AnimationAux.csprojResolveAssemblyReference.cache
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\obj\x86\Debug\AnimationAux.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\WindowsGame1\AnimationAux\obj\x86\Debug\AnimationAux.pdb
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\AnimationAux.dll
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\AnimationAux.pdb
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.dll
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.xml
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+H:\VS2015\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+H:\VS2015\SrinokanDreams\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\VS2015\SrinokanDreams\AnimationAux\obj\x86\Debug\AnimationAux.dll
+H:\VS2015\SrinokanDreams\AnimationAux\obj\x86\Debug\AnimationAux.pdb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\AnimationAux.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\AnimationAux.pdb
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\obj\x86\Debug\AnimationAux.dll
+C:\Users\akshay\Documents\Visual Studio 2015\Projects\SrinokanDreams\AnimationAux\obj\x86\Debug\AnimationAux.pdb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\AnimationAux.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\AnimationAux.pdb
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\obj\x86\Debug\AnimationAux.dll
+C:\Users\akshay\Documents\GitHub\SrinokanDreams\AnimationAux\obj\x86\Debug\AnimationAux.pdb
